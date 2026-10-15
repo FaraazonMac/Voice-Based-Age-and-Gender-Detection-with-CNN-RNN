@@ -57,7 +57,7 @@ This project was built in three main parts: preprocessing, training, and deploym
 
 <img width="630" height="724" alt="image" src="https://github.com/user-attachments/assets/e3e7ffc9-e57b-4c43-8861-86d3e019627b" />
 
-## 📩 Contact & Info
+## Contact & Info
 
 - **Analyst:** Mohammed Faraaz Shaik — [faraazshaik05042005@gmail.com](mailto:faraazshaik05042005@gmail.com)
 - **LinkedIn:** [Mohammed Faraaz Shaik](https://www.linkedin.com/in/mohammed-faraaz-shaik)
